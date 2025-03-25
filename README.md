@@ -1,4 +1,4 @@
-# Python-Strings
+# Python Program
 
 **1. Getting input for array**         
 ```py
