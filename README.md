@@ -671,7 +671,7 @@ Python
 
 ```
 
-**33. Printing goo pair or not:**
+**33. Printing good pair or not:**
 ```Python
 inp=input("")
 a=inp.count(inp[0])
